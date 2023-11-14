@@ -1,0 +1,51 @@
+h1{
+   color: blue;
+   background-color: black;
+}
+#ind{
+    color: blueviolet;
+    background-color: aqua;
+}
+#a{
+    color: brown;
+    background-color: blue;
+}
+#Eng{
+    color: green;
+    background-color: red;
+}
+#b{
+    color: gold;
+    background-color: black;
+}
+#pak{
+    color: greenyellow;
+    background-color: maroon;
+}
+#c{
+    color: gray;
+    background-color: black;
+}
+#SL{
+    color:rgb(204, 177, 137);
+    background-color: firebrick;
+}
+#d{
+    color: rgb(rgb(48, 33, 33), green, blue); 
+    background-color: rgb(0, 255, 170);
+}
+#nz{
+    color: rgb(10, 37, 10);
+    background-color: blueviolet;
+}
+#e{
+    color: rgb(61, 12, 107);
+    background-color: rgb(56, 45, 28);
+}
+#f{
+    color: rgb(12, 46, 34);
+    background-color: rgb(156, 149, 137);
+}
+body{
+    background-color: rgb(54, 51, 51);
+}

@@ -1,0 +1,16 @@
+body{
+    width: 50%;
+    text-align: center;
+}
+#a{
+    color: blanchedalmond;
+    background-color: black;
+}
+#b{
+    color: aqua;
+    background-color: brown;
+}
+#c{
+    color: black;
+    background-color: cadetblue;
+}

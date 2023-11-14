@@ -1,0 +1,30 @@
+    
+.full{
+    width: 45%;
+    float: left;
+    margin: 20px;
+    text-align: center;
+}
+h1{
+       text-align: center;
+}
+h1{
+    text-align:center;
+}
+#a{
+    background-color:green ;
+}
+#b{
+    background-color: blue;
+}
+#c{
+    background-color: brown;
+}
+#d{
+    background-color: black;
+}
+#e{
+    background-color: aqua;
+    text-align: center;
+}
+

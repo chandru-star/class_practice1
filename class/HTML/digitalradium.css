@@ -1,0 +1,33 @@
+body{
+    color: aliceblue;
+    background-color: black;
+}
+h1{
+    text-align: center;
+}
+.image{
+    border: 2px solid white;
+    width: 150px;
+    height: 150px;
+   margin-top: 20px;
+
+}
+.pic{
+    display: flex;
+    justify-content:space-evenly ;
+}
+.para{
+    width: 400px;
+    height: 400px;
+    margin-top: 50px;
+}
+.cont{
+    display: flex;
+    justify-content: space-evenly;
+}
+.line{
+    background-image: linear-gradient(red,red,black);
+    width: 4px;
+    height: 150px;
+    margin-top: 70px;
+}

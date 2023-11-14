@@ -1,0 +1,62 @@
+#a{
+    width:50%;
+    float:right;
+
+    /* border: 2px solid black; */
+}
+
+#b{
+    width:20%;
+    float:left;
+    margin-left: 8%;
+}
+#bb{
+    background-color: blue;
+    width: 100px;
+    height: 40px;
+}
+#aa{
+    color: aliceblue;
+    background-color: black;
+    margin-left: 40%;
+    width: 200px;
+    height: 40px;
+}
+.abc{
+    border: 2px solid black;
+    width: 100%;
+    height: 60px;
+}
+.bbb{
+    border: 2px solid black;  
+    margin-top: 50px;
+}
+.bbb #c{
+    width: 100%;
+    height: 20%;
+    }
+.abcd{
+    border: 2px solid black;
+    width: 100%;
+    margin-top: 50px;
+}
+.dd{
+    border: 2px solid black;
+    width: 48%;
+    height: 500px;
+    float: left;
+}
+.img{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+.abcd{
+    float: left;
+}
+.para{
+    width: 48%;
+    float:left;
+    padding-left:10px ;
+}
+
